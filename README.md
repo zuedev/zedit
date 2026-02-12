@@ -1,3 +1,6 @@
+> [!WARNING]  
+> This is a legacy project never intended for public use or scrutiny, use at your own risk!
+
 # zedit
 
 > Fast, slim, dependency-free editing with syntax highlighting and directory browsing.
